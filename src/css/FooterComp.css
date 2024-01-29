@@ -1,0 +1,36 @@
+/* footer.css */
+
+.footer {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-section {
+    flex: 1;
+    text-align: left;
+}
+
+.right-section {
+    flex: 1;
+    text-align: ;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.social-link {
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+    display: block;
+}
